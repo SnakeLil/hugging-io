@@ -1,10 +1,1 @@
-torch
-torchvision
-opencv-python-headless
-numpy
-pillow
-# Use specific versions that are known to work together
-huggingface_hub==0.16.4
-diffusers==0.21.4
-transformers==4.30.2
-IOPaint==1.0.0
+IOPaint
