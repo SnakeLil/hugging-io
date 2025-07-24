@@ -4,3 +4,7 @@ torchvision
 opencv-python-headless
 numpy
 pillow
+# Fix version compatibility issues
+huggingface_hub<0.20.0
+diffusers>=0.21.0,<0.25.0
+transformers>=4.21.0,<4.50.0
